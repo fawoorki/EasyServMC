@@ -1,5 +1,9 @@
 # EasyServMC
+## About the project
 An old project of mine that helps you host "Minecraft" servers on your PC. Unfortunately, I never actually finished it, but I’m planning to do so when I have time. The whole purpose of the project was to learn the basics of Python and create simple GUIs. I also had trouble converting it to a .exe file, so it's not very user-friendly to run for now.
+
+### Woopsie
+Also, after looking at the code, I realized it's pretty poorly written (don’t blame me, it’s one of my first codes 🙄). I’ll probably work on improving that as well.
 
 ## To do and planned updates
 ```
